@@ -1,7 +1,7 @@
 # Quantium-Trial-Impact-Store-Level-Performance-Analysis
 
 ## Introduction
-### Part 2 of Quantium's Retail Strategy Virtual Experience on Forage.
+#### Part 2 of Quantium's Retail Strategy Virtual Experience on Forage.
 This project contains Part 2 of the **Quantium Retail Strategy Job Simulation**, hosted on [Forage](https://www.theforage.com). In Part 1, I analyzed customer segments and product performance to support Quantium’s retail strategy. **This second part builds on that by evaluating a real-world store trial** designed to test a new business initiative across selected locations.
 
 Quantium selected **Stores 77, 86, and 88** as trial stores. The goal of this project is to determine whether the business strategy trial had a **statistically significant impact on performance**, by comparing the trial stores against suitable control stores.
@@ -12,31 +12,21 @@ The analysis involves selecting comparable control stores using similarity metri
 
 ## Project Objectives
 
-1. ### Select Suitable Control Stores
+1. ### Select Suitable Control Stores.
 
    * Explore the pre-trial performance of all stores using metrics such as **total sales** and **number of customers**.
    * Use **correlation and magnitude distance** to score similarity between stores.
    * Develop a **reusable function** for selecting control stores and visualize the similarity for validation.
 
-2. ### Assess Trial Store Performance
+2. ### Assess Trial Store Performance.
 
    * Compare each **trial store's** monthly performance with its matched **control store** during the trial window.
    * Use **visual analysis** and **statistical techniques** to identify whether performance differences are meaningful.
 
-3. ### Extract Key Insights
-
-   * Look for any additional trends such as seasonality or anomalies that could influence interpretation.
-   * Highlight any unexpected findings that could be useful for future experiments.
-
-4. ### Summarize Findings and Recommendations
+3. ### Summarize Findings and Recommendations.
 
    * For each trial store, provide a **clear conclusion** on the effectiveness of the trial.
    * Support the recommendations with **data-backed evidence** and visualizations.
-
-5. ### Ensure Clarity and Reproducibility
-
-   * Structure the analysis in a way that’s easy to follow, with clean, well-documented code.
-   * Include markdown explanations, visual outputs, and modular functions to promote transparency.
 
 ---
 
@@ -60,6 +50,20 @@ You can view the complete analysis and code in the Jupyter Notebook below:
 🔗 **[Quantium\_task2.ipynb](./Quantium_task2.ipynb)**
 
 This notebook walks through the full process from control store selection and performance comparison to visualizations and final recommendations. Each step is documented to ensure clarity and reproducibility.
+
+---
+
+## Skills Demonstrated
+
+* **Experimental Design** – Evaluated the impact of a business strategy using control vs. trial store comparison.
+* **Data Analysis with Python** – Manipulated and analyzed structured datasets using `pandas` and `numpy`.
+* **Data Visualization** – Created clear and informative charts using `matplotlib` and `seaborn` to support findings.
+* **Feature Engineering** – Created custom KPIs such as average price per unit, chips per transaction, and transactions per customer to capture store performance.
+* **Scaling & Normalization** – Applied scaling factors to align pre-trial values between trial and control stores, ensuring fair comparisons.
+* **Similarity Scoring** – Applied correlation and magnitude distance metrics to identify suitable control stores.
+* **Statistical Analysis** – Conducted pre/post-trial comparisons and assessed significance using statistical techniques.
+* **Problem Solving** – Built custom functions for similarity scoring and automated parts of the trial analysis workflow.
+* **Communication of Insights** – Summarized findings and made actionable recommendations based on data.
 
 ---
 
