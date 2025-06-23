@@ -1,5 +1,16 @@
 # Quantium-Trial-Impact-Store-Level-Performance-Analysis
 
+## 📑 Table of Contents
+
+1. [Introduction](#introduction)
+2. [Project Objectives](#project-objectives)
+3. [Tools Used](#tools-used)
+4. [Full Project Notebook](#full-project-notebook)
+5. [Skills Demonstrated](#skills-demonstrated)
+6. [Key Findings](#key-findings)
+7. [Conclusion](#conclusion)
+8. [Recommendations](#recommendations)
+
 ## Introduction
 #### Part 2 of Quantium's Retail Strategy Virtual Experience on Forage.
 This project contains Part 2 of the **Quantium Retail Strategy Job Simulation**, hosted on [Forage](https://www.theforage.com). In Part 1, I analyzed customer segments and product performance to support Quantium’s retail strategy. **This second part builds on that by evaluating a real-world store trial** designed to test a new business initiative across selected locations.
@@ -67,17 +78,66 @@ This notebook walks through the full process from control store selection and pe
 
 ---
 
+## Key Findings
+
+### Store 77 vs Control Store 233
+
+* **Total Sales:**
+  Trial store 77's sales were **significantly higher** than expected in **two of the three trial months**, exceeding the 95% confidence interval, suggesting a **strong positive impact** from the trial.
+
+  ![image](https://github.com/user-attachments/assets/1402e3fd-2c46-4328-be2c-fe94ac5f2ec1)
+
+
+* **Customer Numbers:**
+  There was a **consistent increase in customers** above the 95% CI in **March and April**, with only a slight dip in February. This indicates **statistically significant uplift in engagement** due to the trial.
+
+![image](https://github.com/user-attachments/assets/2eff30d9-4f98-49db-8920-0689c7fad1e0)
+
+
+---
+
+### Store 86 vs Control Store 155
+
+* **Total Sales:**
+  Performance was **mixed**. Sales exceeded the 95% CI **only in March**, with February and April staying within or near expected levels. This suggests a **possible positive trend**, but not consistently strong across the trial.
+
+![image](https://github.com/user-attachments/assets/895197a1-d12f-470b-977e-d47ce724706b)
+
+
+* **Customer Numbers:**
+  Customer counts were **consistently higher than expected** in all three trial months, lying **above the 95% confidence interval**. This reflects a **statistically significant increase in customer traffic** during the trial.
+
+![image](https://github.com/user-attachments/assets/9c0f5457-9595-42cb-91f1-d244acec99c1)
+
+---
+
+### Store 88 vs Control Store 237
+
+* **Total Sales:**
+  Trial store 88’s total sales **exceeded expectations in March and April**, breaking out of the 95% CI in those months. This reflects a **statistically significant improvement**, especially in the latter part of the trial.
+
+![image](https://github.com/user-attachments/assets/c15fb81f-e6ff-446d-962a-26e653acf887)
+
+
+* **Customer Numbers:**
+  A **steady rise in customer numbers** was observed during the trial. Except for a slight dip at the start of February, all other months were **above the upper CI bound**, showing the trial had a **clear, positive effect on foot traffic**.
+
+![image](https://github.com/user-attachments/assets/1c7e3908-2c44-4f9a-90d3-8d10b26544d2)
+
+
+---
+
 ## Conclusion
 
 The analysis assessed the impact of a trial intervention across three selected stores (77, 86, and 88) by comparing their performance against similar control stores during a pre-defined trial period (February to April 2019). Total sales and customer counts were used as key metrics. The findings are summarized as follows:
 
-* **Store 77 vs. Control Store 233**
+* **Store 77 vs. Control Store 233:**
   The trial led to a significant uplift in both sales and customer numbers. Sales in the trial store exceeded the 95% confidence interval of the control store in two of the three trial months. Additionally, customer counts consistently remained above expectations, suggesting the trial effectively attracted more customers and increased revenue.
 
-* **Store 86 vs. Control Store 155**
+* **Store 86 vs. Control Store 155:**
   Results indicate a moderate positive impact. While total sales only exceeded the expected range in March, the number of customers was significantly higher in all three trial months. This suggests the trial succeeded in drawing more shoppers, though conversion into higher sales may need further evaluation.
 
-* **Store 88 vs. Control Store 237**
+* **Store 88 vs. Control Store 237:**
   A strong positive impact was observed. Total sales significantly surpassed the expected range in March and April, and customer counts remained consistently above the upper confidence limit, indicating that the trial boosted both customer engagement and sales performance.
 
 ---
