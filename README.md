@@ -1,6 +1,6 @@
 # Quantium-Trial-Impact-Store-Level-Performance-Analysis
 ![20250623_1313_Quantium Trial Analysis_simple_compose_01jye4d8gre1ts4xyk1v6sw868 (1)](https://github.com/user-attachments/assets/c772aee0-6966-4c6b-a6fb-b0fa1e844f64)
-
+*image credit: Sora*
 ## Table of Contents
 
 1. [Introduction](#introduction)
