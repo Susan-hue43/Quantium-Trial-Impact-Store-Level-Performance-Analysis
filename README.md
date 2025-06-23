@@ -1,6 +1,7 @@
 # Quantium-Trial-Impact-Store-Level-Performance-Analysis
+![20250623_1313_Quantium Trial Analysis_simple_compose_01jye4d8gre1ts4xyk1v6sw868 (1)](https://github.com/user-attachments/assets/c772aee0-6966-4c6b-a6fb-b0fa1e844f64)
 
-## 📑 Table of Contents
+## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Project Objectives](#project-objectives)
@@ -10,6 +11,8 @@
 6. [Key Findings](#key-findings)
 7. [Conclusion](#conclusion)
 8. [Recommendations](#recommendations)
+
+---
 
 ## Introduction
 #### Part 2 of Quantium's Retail Strategy Virtual Experience on Forage.
